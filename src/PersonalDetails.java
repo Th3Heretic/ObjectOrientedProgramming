@@ -2,9 +2,9 @@ public class PersonalDetails
 {
     public static void main (String[] args)
     {
-        System.out.println("Damien Snow");
-        System.out.println("117a Church Road");
-        System.out.println("24 Years old");
-        System.out.println("07515947525");
+        System.out.println("Jack Frost");
+        System.out.println("123 Fake Street");
+        System.out.println("25 Years old");
+        System.out.println("07123124456");
     }
 }
